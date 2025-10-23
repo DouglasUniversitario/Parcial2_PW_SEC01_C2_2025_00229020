@@ -1,0 +1,27 @@
+{
+  "name": "parcial2_pw_sec01_c2_2025_00229020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DouglasUniversitario/Parcial2_PW_SEC01_C2_2025_00229020.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DouglasUniversitario/Parcial2_PW_SEC01_C2_2025_00229020/issues"
+  },
+  "homepage": "https://github.com/DouglasUniversitario/Parcial2_PW_SEC01_C2_2025_00229020#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

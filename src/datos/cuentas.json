@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "name": "Lawrence Lane",
+    "gender": "male",
+    "balance": 12250.89,
+    "isActive": true,
+    "email": "lawrencelane@insectus.com",
+    "registered": "2019-10-15T11:27:30 +06:00"
+  },
+  {
+    "id": "2",
+    "name": "Kay Mullen",
+    "gender": "male",
+    "balance": 3635.67,
+    "isActive": false,
+    "email": "kaymullen@digiprint.com",
+    "registered": "2020-06-08T09:51:56 +06:00"
+  },
+  {
+    "id": "3",
+    "name": "Alana Rhodes",
+    "gender": "female",
+    "balance": 9880.75,
+    "isActive": true,
+    "email": "alanarhodes@everest.com",
+    "registered": "2021-01-18T07:07:54 +06:00"
+  },
+  {
+    "id": "4",
+    "name": "Morse Lowe",
+    "gender": "male",
+    "balance": 4527.42,
+    "isActive": true,
+    "email": "morselowe@quiltigen.com",
+    "registered": "2025-09-20T11:52:50 +06:00"
+  },
+  {
+    "id": "5",
+    "name": "Brenda Peters",
+    "gender": "female",
+    "balance": 1504.74,
+    "isActive": false,
+    "email": "brendapeters@satiance.com",
+    "registered": "2019-10-27T10:40:25 +06:00"
+  },
+  {
+    "id": "6",
+    "name": "Fletcher Neal",
+    "gender": "male",
+    "balance": 3773.10,
+    "isActive": true,
+    "email": "fletcherneal@asimiline.com",
+    "registered": "2020-12-08T07:56:41 +06:00"
+  },
+  {
+    "id": "7",
+    "name": "Jami Haney",
+    "gender": "female",
+    "balance": 3623.63,
+    "isActive": true,
+    "email": "jamihaney@overplex.com",
+    "registered": "2014-01-05T08:36:28 +06:00"
+  }
+]
