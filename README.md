@@ -1,1 +1,1 @@
-# Parcial2_PW_SEC01_C2_2025_00229020
+Douglas Alexander Alfaro Diaz 00229020 Seccion 1
